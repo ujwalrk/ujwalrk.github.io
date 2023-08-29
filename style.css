@@ -14,8 +14,7 @@ body {
 
 .logo-placeholder {
   width: 50px;
-  height: 50px;
-  background-color: white; /* Placeholder color */
+  height: 50px; 
 }
 
 .nav-sections {
@@ -29,7 +28,7 @@ body {
 }
 
 .background-image {
-  background-image: url('LINKEDIN BANNER V3.png');
+  background-image: url('banner.png');
   background-size: cover;
   background-position: center;
   width: 100vw;
