@@ -35,6 +35,3 @@ Feel free to reach out to me if you share my enthusiasm for design, technology, 
 Looking forward to connecting and creating together!
 
 ---
-
-[LinkedIn](www.linkedin.com/in/ujwal-karajgikar)
-[Email](ujwal.png@gmail.com)
