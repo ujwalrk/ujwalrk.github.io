@@ -23,7 +23,7 @@ body{
 }
 
 header nav {
-    background-color: rgba(70, 70, 70, 0);
+    background-color: rgba(10, 10, 10, 0);
     max-width: 1400px;
     margin: 0 auto;
     padding: 0 2rem;
