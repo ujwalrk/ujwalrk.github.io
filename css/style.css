@@ -893,8 +893,8 @@ footer img {
 .top-bar {
     color: #aaa;
     padding: 150px 0 150px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .1)), url(../img/ban.png);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .1)), url(../img/ban.png);
+    background: /*-webkit-linear-gradient( rgb(0, 0, 0), rgb(0, 0, 0)), */url(../img/ban.png);
+    background: linear-gradient( rgba(255, 255, 255, .005), rgba(255, 255, 255, .005)), url(../img/ban.png);
     background-size:cover;
     background-attachment:unset;
     background-position: center center;
